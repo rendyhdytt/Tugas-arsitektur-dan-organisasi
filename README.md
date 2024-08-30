@@ -33,4 +33,8 @@ Pada Tahun 2001 Maxtor mengeluarkan hardisk Maxtor VL40 32049h2 yang memiliki ka
 
 Selanjutnya, Seagate meluncurkan harddisk Maxtor VL40 32049h2 dengan kapasitas cukup besar yaitu 120GB. Perkembangan terus berlanjut hingga pada tahun 2007 Hitachi meluncurkan Deskstar 7k1000 memiliki kapasitas 1000GB atau 1TeraByte.
 
+![th (3)](https://github.com/user-attachments/assets/66c568dd-95ad-4b10-be05-67fb9382ccd8)
 
+                                                         Pengertian Hardisk
+
+adalah komponen perangkat keras yang menyimpan semua konten digital. Dokumen,  foto, musik, video, program, preferensi aplikasi, dan sistem operasi maupun konten digital  tersimpan di hardisk. Hardisk juga dapat berupa eksternal dan juga berupa internal. Selain itu  Hard Disk Drive yang sering juga disebut dengan hard drive, hardisk dan HDD ini adalah  perangkat penyimpanan data non-volatile. Penyimpanan non-volatile berarti perangkat  penyimpanan akan tetap mempertahankan data yang tersimpan meskipun perangkat utama  dimatikan. Semuanya yang dapat disimpan di hard disk diukur berdasarkan ukuran file.  Dokumen atau (teks) biasanya berukuran sangat kecil, sedangkan foto berukuran besar, musik  berukuran lebih besar, dan video berukuran terbesar. Hard disk akan menentukan ukuran file  digital dalam satuan megabyte (MB), gigabyte (GB), dan terabyte (TB).
