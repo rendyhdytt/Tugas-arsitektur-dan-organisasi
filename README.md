@@ -7,3 +7,10 @@ Sangat mudah menemukan laptop dan computer di zaman sekarang. Jika melihat sejar
 
 Hardisk pertama kali diciptakan oleh IBM (Internasional Business Machines Corporation) pada tahun 1956 silam, dengan berat 500kg hanya dapat menampung 5Megapixel.
 
+![WhatsApp Image 2024-08-30 at 15 07 17_9ed13109](https://github.com/user-attachments/assets/d74fedfa-00f2-4755-bef0-7cc8ce0d171b)
+
+Tentunya sebuah media penyimpanan membutuhkan kompresor udara bertekanan dan tentunya masih belum bisa digunakan di rumah.
+
+Dulu hardisk disewakan kepada perusahaan-perusahaan untuk jangka waktu yang ditentukan dengan harga sewa yang terbilang cukup mahal yaitu $5000 US dollar/bulan
+
+Seiring berjalannya waktu IBM mengeluarkan produk dengan nama IBM 1311 pada tanggal 11 oktober 1962 dengan kapasitas penyimpanan mencapai 2 juta karakter pada disk pack.
