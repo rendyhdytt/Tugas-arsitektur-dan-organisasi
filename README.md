@@ -38,3 +38,29 @@ Selanjutnya, Seagate meluncurkan harddisk Maxtor VL40 32049h2 dengan kapasitas c
                                                          Pengertian Hardisk
 
 adalah komponen perangkat keras yang menyimpan semua konten digital. Dokumen,  foto, musik, video, program, preferensi aplikasi, dan sistem operasi maupun konten digital  tersimpan di hardisk. Hardisk juga dapat berupa eksternal dan juga berupa internal. Selain itu  Hard Disk Drive yang sering juga disebut dengan hard drive, hardisk dan HDD ini adalah  perangkat penyimpanan data non-volatile. Penyimpanan non-volatile berarti perangkat  penyimpanan akan tetap mempertahankan data yang tersimpan meskipun perangkat utama  dimatikan. Semuanya yang dapat disimpan di hard disk diukur berdasarkan ukuran file.  Dokumen atau (teks) biasanya berukuran sangat kecil, sedangkan foto berukuran besar, musik  berukuran lebih besar, dan video berukuran terbesar. Hard disk akan menentukan ukuran file  digital dalam satuan megabyte (MB), gigabyte (GB), dan terabyte (TB).
+
+                                                            Fungsi Hardisk
+1. Menyimpan data software 
+
+Fungsi hardisk adalah untuk menyimpan data perangkat lunak, penyimpanan data  dari perangkat lunak ini dilakukan agar software tersebut dapat dibuka dan  dijalankan pada perangkat komputer. 
+
+2. Backup data
+   
+Selain untuk menyimpan data, beberapa orang memanfaatkan hardisk untuk sarana  backup website dan file komputer mereka. Berkat kapasitas penyimpanan hardisk  yang besar, tempat penyimpanan secondary ini memang cocok untuk dijadikan  backup. 
+
+Umumnya saat perangkat komputer kita rusak, file yang ada dalam tempat  penyimpanan kedua ini akan tetap aman dan bisa diakses. Hardisk juga menyediakan  jenis external yang portabel jadi kita bisa menyimpan data pada perangkat yang berbeda.
+
+3. Tempat penyimpanan database 
+
+Seperti yang diketahui, salah satu elemen terpenting dalam suatu sistem komputer  adalah Database. Database dapat membantu sebuah program atau aplikasi untuk  berjalan dengan baik. 
+
+Database umumnya disimpan di dalam hardisk pada komputer server. Hal ini  memudahkan akses dari berbagai Client yang ingin mengaksesnya. Oleh karena itu,  hardisk yang digunakan untuk menjadi server ini membutuhkan hardisk dengan  kapasitas tinggi agar tidak terjadi masalah saat pengambilan data nantinya. 
+
+4. Menyimpan data dari Operating System (OS) 
+
+Selain penyimpanan database, fungsi hardisk umumnya sebagai tempat menyimpan  data dari OS. Biasanya OS yang digunakan pada sebuah komputer kebanyakan  adalah Windows. Baik Windows maupun OS lain membutuhkan hardisk untuk dapat  mengoperasikan sebuah komputer. Itu sebabnya, hardisk juga berfungsi untuk  menginstal OS. 
+
+5. Menyimpan berbagai file pengguna 
+
+Hardisk juga kerap kali digunakan untuk menyimpan berbagai file. Bagi pengguna,  fungsi hardisk sangat vital sebagai tempat menyimpan segala macam data, file, serta  dokumen virtual seperti .doc, .pdf, .mp3, dan lain-lain.
+          
