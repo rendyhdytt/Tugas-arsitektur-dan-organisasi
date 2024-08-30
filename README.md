@@ -107,3 +107,12 @@ Read/write head adalah komponen yang berfungsi untuk membaca, menulis atau  meng
 
 Actuator arm ini berfungsi untuk menyesuaikan posisi read/write head sesuai dengan  lokasi data yang akan tulis pada pattern.
 
+![th (8)](https://github.com/user-attachments/assets/af594f1e-14c9-49bb-9611-8e6ff6bc7f07)
+
+Tugas Arsitektur dan organisasi komputer
+Rendi Hidayat 
+Tk 3 C
+09030582327113
+Universitas Sriwijaya
+
+
